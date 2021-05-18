@@ -1,7 +1,7 @@
 # Selectores
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
-En este repositorio se encuentra el codigopara hacer selectores en cascada usando Angular, se utiliza la api de Rest country para hacer las peticiones http
+En este repositorio se encuentra el codigo para hacer selectores en cascada usando Angular, se utiliza la api de Rest country para hacer las peticiones http
 https://restcountries.eu/
 
 ## Development server
